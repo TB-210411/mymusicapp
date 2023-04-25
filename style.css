@@ -1,0 +1,15 @@
+body{
+    background-size: cover;
+}
+
+button{
+    width: 170px !important;
+    height:70px !important;
+    margin: 50px;
+    font-size: 20px !important;
+}
+.heading{
+    font-size: 30px;
+    width:30%;
+    margin-top: 150px;
+}
